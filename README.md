@@ -1,63 +1,63 @@
-# Hexa Fall
+# Hexa Fall (Hexa Düşüşü)
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-A beautifully crafted, fast-paced puzzle game built with Flutter.
+Flutter ile geliştirilmiş, harika tasarıma sahip, hızlı ve sürükleyici bir bulmaca oyunu.
 
-## 🌟 Features
+## 🌟 Özellikler
 
-- **Engaging Gameplay:** Test your reflexes and strategic thinking.
-- **Modern UI:** Clean, dark-themed Material 3 design.
-- **Local Storage:** Saves your high scores and preferences securely on the device.
-- **Cross-Platform:** Runs seamlessly on iOS and Android.
+- **Sürükleyici Oynanış:** Reflekslerinizi ve stratejik düşünme becerinizi test edin.
+- **Modern Arayüz:** Temiz, karanlık temalı Material 3 tasarımı.
+- **Yerel Veri Saklama:** Yüksek skorlarınızı ve oyun ayarlarınızı cihazınızda güvenle saklar.
+- **Çapraz Platform:** iOS ve Android üzerinde sorunsuz çalışır.
 
-## 📸 Screenshots
+## 📸 Ekran Görüntüleri
 
-*(Add your gameplay screenshots here)*
-| Main Menu | Game Screen | Leaderboard |
+*(Oyun içi ekran görüntülerinizi buraya ekleyin)*
+| Ana Menü | Oyun Ekranı | Liderlik Tablosu |
 | :---: | :---: | :---: |
-| <img src="" width="200" alt="Main Menu"> | <img src="" width="200" alt="Game Screen"> | <img src="" width="200" alt="Leaderboard"> |
+| <img src="" width="200" alt="Ana Menü"> | <img src="" width="200" alt="Oyun Ekranı"> | <img src="" width="200" alt="Liderlik Tablosu"> |
 
-## 🚀 Getting Started
+## 🚀 Başlangıç
 
-Follow these steps to get a copy of the project up and running on your local machine.
+Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyebilirsiniz.
 
-### Prerequisites
+### Gereksinimler
 
 - Flutter SDK: `^3.10.4`
 - Dart SDK
 - Android Studio / VS Code
 
-### Installation
+### Kurulum
 
-1. Clone the repository:
+1. Repoyu bilgisayarınıza klonlayın:
    ```bash
-   git clone https://github.com/your-username/hexa_fall.git
+   git clone https://github.com/icgelmeliksah2-coder/hexafall.git
    ```
-2. Navigate to the project directory:
+2. Proje dizinine gidin:
    ```bash
-   cd hexa_fall
+   cd hexafall
    ```
-3. Install dependencies:
+3. Gerekli paketleri yükleyin:
    ```bash
    flutter pub get
    ```
-4. Run the app:
+4. Uygulamayı başlatın:
    ```bash
    flutter run
    ```
 
-## 🛠️ Built With
+## 🛠️ Kullanılan Teknolojiler
 
-- [Flutter](https://flutter.dev/) - The UI toolkit.
-- [shared_preferences](https://pub.dev/packages/shared_preferences) - For local data storage.
-- [google_fonts](https://pub.dev/packages/google_fonts) - Typography.
-- [cupertino_icons](https://pub.dev/packages/cupertino_icons) - Icons.
+- [Flutter](https://flutter.dev/) - Kullanıcı arayüzü altyapısı.
+- [shared_preferences](https://pub.dev/packages/shared_preferences) - Yerel veri depolama için.
+- [google_fonts](https://pub.dev/packages/google_fonts) - Tipografi ve yazı tipleri.
+- [cupertino_icons](https://pub.dev/packages/cupertino_icons) - İkonlar.
 
-## 🧑‍💻 Developer Notes
+## 🧑‍💻 Geliştirici Notları
 
-The game logic is primarily handled in `lib/screens/game_screen.dart`, ensuring high performance and responsive controls. The app uses standard Flutter navigation and state management.
+Oyun mantığı temel olarak `lib/screens/game_screen.dart` dosyasında işlenmekte olup, yüksek performans ve tepkisel kontroller hedeflenmiştir. Uygulama standart Flutter navigasyon ve durum yönetimi (state management) yapısını kullanır.
 
 ---
-*Developed with ❤️ using Flutter.*
+*Flutter kullanılarak ❤️ ile geliştirilmiştir.*
